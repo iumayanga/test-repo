@@ -16,4 +16,8 @@ public class Operations {
     public double div(int a, int b){
         return (double) a/(double) b;
     }
+
+    public int remainder(int a, int b){
+        return a%b;
+    }
 }
