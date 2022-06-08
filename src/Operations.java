@@ -1,17 +1,17 @@
 public class Operations {
-    public void add(int a, int b){
-        System.out.println(a+b);
+    public int add(int a, int b){
+        return a+b;
     }
 
-    public void sub(int a, int b){
-        System.out.println(a-b);
+    public int sub(int a, int b){
+        return a-b;
     }
 
-    public void mul(int a, int b){
-        System.out.println(a*b);
+    public int mul(int a, int b){
+        return a*b;
     }
 
-    public void div(int a, int b){
-        System.out.println(a/b);
+    public double div(int a, int b){
+        return (double) a/(double) b;
     }
 }
