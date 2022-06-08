@@ -8,9 +8,9 @@ public class AppInitializer {
         int mul = operations.mul(1, 2);
         double div = operations.div(1, 2);
 
-        System.out.println("addition: "+add);
-        System.out.println("subtraction: "+sub);
-        System.out.println("multiplication: "+mul);
-        System.out.println("division: "+div);
+        System.out.println("addition of 1 & 2: "+add);
+        System.out.println("subtract 2 from 1: "+sub);
+        System.out.println("multiplication of 1 & 2: "+mul);
+        System.out.println("divide 1 by 2: "+div);
     }
 }
