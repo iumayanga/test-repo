@@ -1,4 +1,4 @@
-import Cal.Operations;
+import cal.Operations;
 
 public class AppInitializer {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Cal;
+package cal;
 
 public class Operations {
     public int add(int a, int b){
